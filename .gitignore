@@ -1,0 +1,63 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Cache files
+*.swp
+.cache/
+.cached_data/
+
+# Dependency directories
+__pycache__/
+node_modules/
+
+# Local development settings
+*.env
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# macOS files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+
+# Compiled files
+*.pyc
+
+# Python egg metadata
+*.egg-info/
+dist/
+.build/
